@@ -1,0 +1,4 @@
+# AotuWidgetsForMakeHuman
+本Python源码是编写的基于开源3D软件MakeHuman的插件。 
+7_AotuHumanBodyRegistration.py主要功能是输入二维人体图片，通过改变三维人体模型的体态， 并把模型的映射到二维空间，通过轮廓迭代求优算法，得到三维模型与二维图片的配准。 
+7_AotuHumanPoseRegistration.py的功能是通过改变人体姿态来得到模型与二维图片的配准。
